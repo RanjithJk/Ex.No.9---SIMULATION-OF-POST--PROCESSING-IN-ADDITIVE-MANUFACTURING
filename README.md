@@ -46,9 +46,12 @@
 ![123_2](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/2801d001-e6cd-4b6c-9d5f-712067d3bc3c)
 
 ## Output:
+![Screenshot 2025-05-19 114454](https://github.com/user-attachments/assets/38db4d41-0e9f-4665-a3bb-af7ea592bcd9)
+![Screenshot 2025-05-19 114522](https://github.com/user-attachments/assets/17f0a1ae-c46d-4d56-aee3-3eaeeaad595d)
+![Screenshot 2025-05-19 114543](https://github.com/user-attachments/assets/833e963a-669a-4304-aa16-765b48d45467)
 
-### Name:
-### Register Number:
+### Name:RANJITH JK
+### Register Number:212224230221
 
 ## Result: 
 ### Thus the simulation on the Postprocessing in additive manufacturing is completed.
